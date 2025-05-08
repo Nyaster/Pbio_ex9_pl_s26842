@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Python script to generate nucleotide sequences in FASTA format.
 
 # Cel programu:
